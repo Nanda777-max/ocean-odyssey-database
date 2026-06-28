@@ -5,7 +5,7 @@
 ![Oracle SQL](https://img.shields.io/badge/Oracle-SQL-F80000?logo=oracle\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248?logo=mongodb\&logoColor=white)
 ![Database Design](https://img.shields.io/badge/Focus-Database%20Design-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+ 
 
 ---
 
